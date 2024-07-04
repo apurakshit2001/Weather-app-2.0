@@ -10,6 +10,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card {
@@ -122,8 +125,8 @@ body {
     body {
         background-image: url(./images/mainbg1.gif);
         background-repeat: no-repeat;
-        background-size: 100vh;
-        object-fit: contain;
+        background-size: 150vh;
+        object-fit: cover;
         background-position: cover;
 
     }
