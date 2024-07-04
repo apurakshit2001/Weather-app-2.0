@@ -125,7 +125,7 @@ body {
     body {
         background-image: url(./images/mainbg1.gif);
         background-repeat: no-repeat;
-        background-size: 150vh;
+        background-size: 100vh;
         object-fit: cover;
         background-position: cover;
 
